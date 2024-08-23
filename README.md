@@ -1,11 +1,6 @@
 <h1 align="center">Hello, I'm Rafael Ataíde</h1>
 
-- 🔭 I’m currently working on **Ivanti Adminitrator**
-
-- 🌱 I’m currently learning **Ivanti**
-
-- ⚡ Fun fact **Humm, don't know to be honest, but im sure about one thing. 
-	Whatever happens, happens...**
+- 👑 **Whatever happens, happens...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
